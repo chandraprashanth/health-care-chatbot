@@ -1,0 +1,41 @@
+[
+  {
+    "disease": "Flu",
+    "symptoms": [
+      "fever",
+      "high temperature",
+      "cough",
+      "sore throat",
+      "headache",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": [
+      "headache",
+      "nausea",
+      "sensitivity to light",
+      "dizziness"
+    ]
+  },
+  {
+    "disease": "Allergy",
+    "symptoms": [
+      "rash",
+      "itching",
+      "skin irritation",
+      "sneezing"
+    ]
+  },
+  {
+    "disease": "COVID-19",
+    "symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "loss of taste",
+      "loss of smell"
+    ]
+  }
+]
